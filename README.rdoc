@@ -1,28 +1,5 @@
 == README
 
-LES Film Festival is an app
+A Rails app built in 48 hours in an attempt to replicate real world project deadlines. The goal was to create an application similar to sites built for the Tribeca Film Festival.
 
-Things you may want to cover:
-
-* Ruby version
-ruby 2.2.3
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+The stack is Ruby on Rails, PostgreSQL, JavaScript (AJAX and the JQuery library) and custom CSS for the front-end design.  Functionality includes the ability to review films, comment on reviews, order films by average review rating and select "winner" films in a given category based on highest average rating.
