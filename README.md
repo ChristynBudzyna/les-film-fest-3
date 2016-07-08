@@ -1,4 +1,4 @@
-#LES Film Fest 3
+# LES Film Fest 3
 
 ##Summary
 A Rails app built in 48 hours in an attempt to replicate real world project deadlines. The goal was to create an application similar to sites built for the Tribeca Film Festival.
